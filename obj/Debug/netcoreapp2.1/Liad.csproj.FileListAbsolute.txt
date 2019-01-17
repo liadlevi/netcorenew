@@ -1,0 +1,11 @@
+C:\Users\p0026241\Liad\bin\Debug\netcoreapp2.1\Liad.deps.json
+C:\Users\p0026241\Liad\bin\Debug\netcoreapp2.1\Liad.runtimeconfig.json
+C:\Users\p0026241\Liad\bin\Debug\netcoreapp2.1\Liad.runtimeconfig.dev.json
+C:\Users\p0026241\Liad\bin\Debug\netcoreapp2.1\Liad.dll
+C:\Users\p0026241\Liad\bin\Debug\netcoreapp2.1\Liad.pdb
+C:\Users\p0026241\Liad\obj\Debug\netcoreapp2.1\Liad.csprojAssemblyReference.cache
+C:\Users\p0026241\Liad\obj\Debug\netcoreapp2.1\Liad.csproj.CoreCompileInputs.cache
+C:\Users\p0026241\Liad\obj\Debug\netcoreapp2.1\Liad.AssemblyInfoInputs.cache
+C:\Users\p0026241\Liad\obj\Debug\netcoreapp2.1\Liad.AssemblyInfo.cs
+C:\Users\p0026241\Liad\obj\Debug\netcoreapp2.1\Liad.dll
+C:\Users\p0026241\Liad\obj\Debug\netcoreapp2.1\Liad.pdb
